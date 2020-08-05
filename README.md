@@ -1,0 +1,1 @@
+# STM32_blinky_task_ru
